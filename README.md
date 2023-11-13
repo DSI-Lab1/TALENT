@@ -1,5 +1,5 @@
 ## TALENT
-This repo hosts the code for paper **"Zefeng Chen, Wensheng Gan, Gengsen Huang, Zhenlian Qi, Yan Li, and Philip S. Yu: TALENT: Targeted Mining of Non-overlapping Sequential Patterns. Submitted to TMIS, pp 1-28 (2023)."**
+This repo hosts the code for paper **"Zefeng Chen, Wensheng Gan, Gengsen Huang, Zhenlian Qi, Yan Li, and Philip S. Yu: TALENT: Targeted Mining of Non-overlapping Sequential Patterns. TMIS (Major Revision), pp 1-34 (2023)."**
 
 ## Requirements
 Java programming language.
